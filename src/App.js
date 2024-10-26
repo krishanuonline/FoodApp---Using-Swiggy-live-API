@@ -27,7 +27,7 @@ const AppLayout = ()=>{
         //make an API call and send user name and password
         //dummy data
         const data = {
-            name:"Krishanu",
+            name:"User",
         };
         setUserName(data.name);
     },[]);
